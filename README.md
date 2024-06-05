@@ -1,9 +1,13 @@
+### Resigned-realme_trinket-ROM
 
-## README.md
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/zxrovx/Resigned-realme_trinket-ROM?include_prereleases)
 
-### Instructions in English and Indonesian
+**Description**
 
-#### English
+This repository contains Android ROMs that have been re-signed by zxrovx with the aim of ensuring that Android devices can pass security verifications such as Device Integrity or CTS (Compatibility Test Suite). Re-signing ROMs is essential for users who want to run applications requiring high security or access to specific services that require a verified device.
+
+
+#### English Guide
 
 1. **Ensure UKA is Installed**
 2. **Create a Folder on /sdcard (Name it anything you like)**
@@ -32,7 +36,7 @@
 
 **Make sure your system and vendor are resized, as failing to resize may result in the system/vendor becoming R/O or mismatched sizes causing Gapps installation failures.**
 
-#### Indonesian
+#### Indonesian Guide
 
 1. **Pastikan UKA Sudah Terinstall**
 2. **Buat Folder Di /sdcard (beri nama apa saja, bebas)**
